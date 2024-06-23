@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
-  locale: 'en',
+  site_name: 'Lu Tech',
+  title: 'Lu Tech',
+  description:
+    'Soluções de software personalizadas para alavancar o seu negócio!',
+  locale: 'pt-br',
 };
