@@ -8,7 +8,7 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 import { Logo } from './Logo';
 
 const Hero = () => (
-  <Background color="bg-gray-100">
+  <Background color="bg-primary-100">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
@@ -30,7 +30,7 @@ const Hero = () => (
         }
         description="Escale seu empreendimento com soluções de software personalizadas."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://wa.me/5524992682323">
             <Button xl>🚀 Alavancar meu Negócio</Button>
           </Link>
         }

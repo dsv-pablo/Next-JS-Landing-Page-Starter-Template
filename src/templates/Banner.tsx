@@ -10,7 +10,7 @@ const Banner = () => (
       title="80% das empresas do Brasil quebram antes de alcançar a escala."
       subtitle="inove e saia na frente!"
       button={
-        <Link href="/">
+        <Link href="https://wa.me/5524992682323">
           <Button>Contate a Lu Tech</Button>
         </Link>
       }
